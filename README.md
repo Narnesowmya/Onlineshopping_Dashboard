@@ -51,4 +51,5 @@ To help businesses and decision-makers understand:
 ---
 
 ## 📷 Dashboard Preview
+https://github.com/Narnesowmya/Onlineshopping_Dashboard/blob/main/Screenshot%20(281).png
 
